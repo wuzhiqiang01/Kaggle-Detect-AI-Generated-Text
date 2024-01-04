@@ -1,2 +1,4 @@
 reference/*
 *.csv
+catboost_info/*
+preprocess.py
